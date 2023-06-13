@@ -2,7 +2,7 @@
 
 - 🌱 Estudando Desenvolvimento de Sistemas
 - 😄 Ela/Dela
-- 🌍 São Paulo.
+- 🌍 São Paulo SP
 
 ## Estou aprendendo
 

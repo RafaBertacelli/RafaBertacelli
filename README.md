@@ -23,4 +23,7 @@ Curiosa e sempre pronta para aprender algo novo
 
 Adoro desafios e projetos que me permitem crescer como desenvolvedora
 
-Buscando oportunidades para aplicar meus conhecimentos e contribuir positivamente na área de tecnologi
+Buscando oportunidades para aplicar meus conhecimentos e contribuir positivamente na área de tecnologia
+
+
+![alt text](imagens/fotinhaw.png)

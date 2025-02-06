@@ -4,7 +4,7 @@
 
 🌱 Apaixonada por Tecnologia e sempre em busca de novos aprendizados
 
-📍 Localização: São Paulo, SP
+📍 Localização: Santo André, SP
 
 🌐 Pronomes: Ela/Dela
 

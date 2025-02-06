@@ -15,8 +15,12 @@ Atualmente, estou explorando e aprimorando minhas habilidades em diversas tecnol
 💬 Vamos Conectar?
 <div style="display: flex; align-items: center; gap: 10px;"> <a href="https://instagram.com/nany_nicee" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a> <a href="mailto:rafabertacelli2303@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a> </div>
 
+
+
 🌈 Sobre Mim:
 
 Curiosa e sempre pronta para aprender algo novo
+
 Adoro desafios e projetos que me permitem crescer como desenvolvedora
-Buscando oportunidades para aplicar meus conhecimentos e contribuir positivamente na área de tecnologia
+
+Buscando oportunidades para aplicar meus conhecimentos e contribuir positivamente na área de tecnologi

@@ -11,7 +11,8 @@
 🚀 Habilidades em Desenvolvimento
 Atualmente, estou explorando e aprimorando minhas habilidades em diversas tecnologias, incluindo:
 
-🌈 Sobre Mim
+🌈 Sobre Mim:
+
 Curiosa e sempre pronta para aprender algo novo
 Adoro desafios e projetos que me permitem crescer como desenvolvedora
 Buscando oportunidades para aplicar meus conhecimentos e contribuir positivamente na área de tecnologia

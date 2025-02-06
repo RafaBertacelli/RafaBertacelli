@@ -1,7 +1,11 @@
 👋 Olá, eu sou a Rafaela!
+
 🎓 Estudante de Desenvolvimento de Sistemas
+
 🌱 Apaixonada por Tecnologia e sempre em busca de novos aprendizados
+
 📍 Localização: São Paulo, SP
+
 🌐 Pronomes: Ela/Dela
 
 🚀 Habilidades em Desenvolvimento

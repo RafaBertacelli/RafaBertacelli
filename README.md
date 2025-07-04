@@ -38,15 +38,16 @@ Atualmente explorando e aprimorando conhecimentos em:
   <a href="https://instagram.com/nany_nicee" target="_blank">
     <img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
+  <a href="https://rafabertacelli.github.io/RafaBertacelliPortifolio" target="_blank">
+    <img src="https://img.shields.io/badge/-Portfólio-000?style=for-the-badge&logo=vercel&logoColor=white"/>
+  </a>
 </p>
 
 ---
 
-## 🖼️ Uma imagem vale mais que mil palavras...
 
-<p align="center">
+
   <img src="imagens/fotinhaw.png" alt="Foto da Rafaela" width="200" style="border-radius: 10px"/>
-</p>
 
 ---
 

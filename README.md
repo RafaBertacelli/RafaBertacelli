@@ -1,50 +1,50 @@
 <h1 align="center">
-  <img src="https://img.icons8.com/fluency/48/user-female-circle.png" width="35"/> Oi, eu sou a Rafaela!
+  <img src="https://img.icons8.com/ios-filled/50/000000/laptop-coding.png" width="30"/> Olá, eu sou a <strong>Rafaela Bertacelli</strong>
 </h1>
 
 <p align="center">
   <img src="https://img.icons8.com/color/48/graduation-cap.png" width="20"/> Estudante de <strong>Desenvolvimento de Sistemas</strong> <br/>
-  <img src="https://img.icons8.com/color/48/artificial-intelligence.png" width="20"/> Adoro <strong>Tecnologia</strong> e sempre em busca de novos aprendizados <br/>
-  <img src="https://img.icons8.com/ios-filled/50/marker.png" width="20"/> Santo André - SP 
+  <img src="https://img.icons8.com/color/48/artificial-intelligence.png" width="20"/> Apaixonada por <strong>tecnologia e inovação</strong> <br/>
+  <img src="https://img.icons8.com/ios-filled/50/marker.png" width="20"/> Santo André - SP
 </p>
 
 ---
 
-## <img src="https://img.icons8.com/external-flat-juicy-fish/60/external-rocket-back-to-school-flat-flat-juicy-fish.png" width="25"/> Habilidades Técnicas
+## <img src="https://img.icons8.com/color/48/rocket--v1.png" width="25"/> Habilidades Técnicas
 
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" alt="HTML5"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" alt="CSS3"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" alt="JavaScript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" alt="React"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" width="40" alt="PHP"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" width="40" alt="Laravel"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" alt="MySQL"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" alt="Java"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" alt="Python"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" alt="Git"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" alt="GitHub"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40" alt="Figma"/>
 </p>
 
 ---
 
 ## <img src="https://img.icons8.com/fluency/48/idea.png" width="25"/> Sobre Mim
 
-- <img src="https://img.icons8.com/dusk/64/monitor.png" width="18"/> Curiosa e sempre pronta para aprender algo novo  
-- <img src="https://img.icons8.com/doodle/48/bullseye.png" width="18"/> Gosto de desafios e projetos que me ajudam a crescer como desenvolvedora  
-- <img src="https://img.icons8.com/ios-filled/50/handshake.png" width="18"/> Buscando oportunidades para aplicar meus conhecimentos e contribuir na área de tecnologia
+✨ Sou apaixonada por desenvolvimento, sempre curiosa e em constante aprendizado.  
+🎯 Gosto de desafios que me impulsionam a crescer como profissional e pessoa.  
+🤝 Busco oportunidades para colaborar e fazer a diferença através da tecnologia.
 
 ---
 
 ## <img src="https://img.icons8.com/fluency/48/conference-call.png" width="25"/> Soft Skills
 
-- 🤝 Trabalho em equipe  
-- 🗣 Comunicação clara e empática  
-- 🧠 Pensamento analítico e resolução de problemas  
-- ⏱ Organização e gestão de tempo  
-- 🚀 Proatividade e sede por aprendizado constante  
-- 💡 Criatividade e adaptação
+✔️ Trabalho em equipe colaborativo  
+✔️ Comunicação clara e empática  
+✔️ Resolução de problemas com pensamento lógico  
+✔️ Organização e foco em resultados  
+✔️ Proatividade e sede por conhecimento  
+✔️ Criatividade e adaptabilidade
 
 ---
 
@@ -65,11 +65,11 @@
 ---
 
 <p align="center">
-  <img src="imagens/fotinhaw.png" alt="Foto da Rafaela" style="border-radius: 10px"/>
+  <img src="imagens/fotinhaw.png" alt="Foto da Rafaela" width="200" style="border-radius: 10px"/>
 </p>
 
 ---
 
 <p align="center">
-  Feito com <img src="https://img.icons8.com/color/48/heart-with-arrow.png" width="18"/> por Rafaela Bertacelli
+  <img src="https://img.icons8.com/color/48/love-circled.png" width="20"/> Feito com dedicação por <strong>Rafaela Bertacelli</strong>
 </p>

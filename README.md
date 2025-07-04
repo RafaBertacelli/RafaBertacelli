@@ -1,29 +1,55 @@
-👋 Olá, eu sou a Rafaela!
+<h1 align="center">👋 Oi, eu sou a Rafaela!</h1>
 
-🎓 Estudante de Desenvolvimento de Sistemas
+<p align="center">
+  🎓 Estudante de <strong>Desenvolvimento de Sistemas</strong> <br/>
+  🌱 Apaixonada por <strong>Tecnologia</strong> e sempre em busca de novos aprendizados <br/>
+  📍 Santo André - SP • Pronomes: <strong>Ela/Dela</strong>
+</p>
 
-🌱 Apaixonada por Tecnologia e sempre em busca de novos aprendizados
+---
 
-📍 Localização: Santo André, SP
+## 🚀 Habilidades & Tecnologias
 
-🌐 Pronomes: Ela/Dela
+Atualmente explorando e aprimorando conhecimentos em:
 
-🚀 Habilidades em Desenvolvimento
-Atualmente, estou explorando e aprimorando minhas habilidades em diversas tecnologias, incluindo:
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50" alt="Java"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" width="50" alt="PHP"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" alt="HTML5"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50" alt="CSS3"/>
+</p>
 
-<div style="display: flex; align-items: center; gap: 10px;"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40" alt="Java"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" width="40" height="40" alt="PHP"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40" alt="CSS3"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" alt="HTML5"/> </div>
-💬 Vamos Conectar?
-<div style="display: flex; align-items: center; gap: 10px;"> <a href="https://instagram.com/nany_nicee" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a> <a href="mailto:rafabertacelli2303@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a> </div>
+---
 
+## 💡 Sobre Mim
 
+- 👩‍💻 Curiosa e sempre pronta para aprender algo novo  
+- 🎯 Gosto de desafios e projetos que me ajudam a crescer como desenvolvedora  
+- 🤝 Buscando oportunidades para aplicar meus conhecimentos e contribuir na área de tecnologia
 
-🌈 Sobre Mim:
+---
 
-Curiosa e sempre pronta para aprender algo novo
+## 📬 Vamos Conectar?
 
-Adoro desafios e projetos que me permitem crescer como desenvolvedora
+<p align="center">
+  <a href="mailto:rafabertacelli2303@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://instagram.com/nany_nicee" target="_blank">
+    <img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+</p>
 
-Buscando oportunidades para aplicar meus conhecimentos e contribuir positivamente na área de tecnologia
+---
 
+## 🖼️ Uma imagem vale mais que mil palavras...
 
-![alt text](imagens/fotinhaw.png)
+<p align="center">
+  <img src="imagens/fotinhaw.png" alt="Foto da Rafaela" width="200" style="border-radius: 10px"/>
+</p>
+
+---
+
+<p align="center">
+  Feito com 💜 por Rafaela Bertacelli
+</p>

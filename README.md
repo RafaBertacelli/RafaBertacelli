@@ -4,7 +4,6 @@
 
 <p align="center">
   <img src="https://img.icons8.com/color/48/graduation-cap.png" width="20"/> Estudante de <strong>Desenvolvimento de Sistemas</strong> <br/>
-  <img src="https://img.icons8.com/color/48/artificial-intelligence.png" width="20"/> Apaixonada por <strong>tecnologia e inovação</strong> <br/>
   <img src="https://img.icons8.com/ios-filled/50/marker.png" width="20"/> Santo André - SP
 </p>
 

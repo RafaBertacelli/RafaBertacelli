@@ -47,7 +47,7 @@ Atualmente explorando e aprimorando conhecimentos em:
 
 
 
-  <img src="imagens/fotinhaw.png" alt="Foto da Rafaela" width="200" style="border-radius: 10px"/>
+  <img src="imagens/fotinhaw.png" alt="Foto da Rafaela" style="border-radius: 10px"/>
 
 ---
 

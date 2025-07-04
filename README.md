@@ -2,8 +2,8 @@
 
 <p align="center">
   🎓 Estudante de <strong>Desenvolvimento de Sistemas</strong> <br/>
-  🌱 Apaixonada por <strong>Tecnologia</strong> e sempre em busca de novos aprendizados <br/>
-  📍 Santo André - SP • Pronomes: <strong>Ela/Dela</strong>
+  🌱 Adoro <strong>Tecnologia</strong> e sempre em busca de novos aprendizados <br/>
+  📍 Santo André - SP 
 </p>
 
 ---
